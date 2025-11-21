@@ -1,6 +1,6 @@
 # Smart Career & Learning Advisor — Advanced (Option C)
 
-**Team:** KNSH Partners (Kishan MC, Supriya, Harshal, Nikitha Shenoy)
+**Team:** Comrade
 
 This is an advanced, full AI-powered version of the Smart Career & Learning Advisor for the Kaggle Agents Intensive capstone. Features:
 
