@@ -1,0 +1,15 @@
+# Core
+fastapi
+uvicorn
+pydantic
+requests
+python-json-logger
+prometheus_client
+
+# LLM & embeddings (optional - used if API key provided)
+openai
+
+# Utilities
+scikit-learn
+numpy
+tqdm
